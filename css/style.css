@@ -102,15 +102,15 @@ body {
 }
 
 .phone {
-  background-image: url("image/phone.png");
+  background-image: url("./image/phone.png");
 }
 
 .skype {
-  background-image: url("image/skype.png");
+  background-image: url("./image/skype.png");
 }
 
 .telegram {
-  background-image: url("image/telegram.png");
+  background-image: url("./image/telegram.png");
 }
 
 .btn {
